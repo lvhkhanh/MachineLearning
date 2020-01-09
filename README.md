@@ -15,3 +15,4 @@
 # 01 Intro
 ## [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 ## [Introduction to Machine Learning - Duke](https://www.coursera.org/learn/machine-learning-duke)
+## [Introduction to Machine Learning - Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
