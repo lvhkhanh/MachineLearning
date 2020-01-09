@@ -11,3 +11,6 @@
 [Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
 
 [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
+
+# 01 Intro
+## [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
