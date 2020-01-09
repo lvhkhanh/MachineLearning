@@ -1,5 +1,7 @@
 # MachineLearning
 
+[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning?action=enroll)
+
 [Introduction to Applied Machine Learning](https://www.coursera.org/learn/machine-learning-applied/home/welcome)
 
 [AI Programming with Python Nanodegree ](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
