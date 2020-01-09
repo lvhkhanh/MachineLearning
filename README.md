@@ -19,3 +19,6 @@
 
 # 02 Regression
 ## [Machine Learning: Regression - University of Washington](https://www.coursera.org/learn/ml-regression)
+
+# 03 Classification
+## [Machine Learning: Classification - University of Washington](https://www.coursera.org/learn/ml-classification)
