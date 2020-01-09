@@ -22,3 +22,6 @@
 
 # 03 Classification
 ## [Machine Learning: Classification - University of Washington](https://www.coursera.org/learn/ml-classification)
+
+# 04 Clustering & Retrieval
+## [Machine Learning: Clustering & Retrieval - University of Washington](https://www.coursera.org/learn/ml-clustering-and-retrieval)
