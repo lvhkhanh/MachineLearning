@@ -1,5 +1,7 @@
 # MachineLearning
 
+https://www.codecademy.com/learn/machine-learning
+
 [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning?action=enroll)
 
 [Introduction to Applied Machine Learning](https://www.coursera.org/learn/machine-learning-applied/home/welcome)
