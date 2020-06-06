@@ -1,6 +1,8 @@
 # MachineLearning
 ## SDK
 ### https://developers.google.com/ml-kit
+### https://developers.google.com/vision/
+### https://www.tensorflow.org/lite
 ## Courses
 ### https://codelabs.developers.google.com/codelabs/mlkit-android/index.html?index=..%2F..index#0
 https://www.codecademy.com/learn/machine-learning
