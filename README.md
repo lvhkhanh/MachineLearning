@@ -3,6 +3,8 @@
 ### https://developers.google.com/ml-kit
 ### https://developers.google.com/vision/
 ### https://www.tensorflow.org/lite
+## Paths
+### https://www.codecademy.com/paths/machine-learning/tracks/introduction-to-machine-learning-skill-path/modules/introduction-to-machine-learning-skill-path/lessons/why-machine-learning/exercises/supervised-learning
 ## Courses
 ### https://codelabs.developers.google.com/codelabs/mlkit-android/index.html?index=..%2F..index#0
 https://www.codecademy.com/learn/machine-learning
