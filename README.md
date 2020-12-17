@@ -34,3 +34,7 @@ https://www.codecademy.com/learn/machine-learning
 
 # 04 Clustering & Retrieval
 ## [Machine Learning: Clustering & Retrieval - University of Washington](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+
+
+## Links
+- [ ] https://www.w3schools.com/python/python_ml_getting_started.asp
